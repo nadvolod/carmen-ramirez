@@ -27,7 +27,7 @@ export default function Testimonials() {
   return (
     <section
       id="resultados"
-      className="container-page py-20 md:py-28 reveal"
+      className="container-page py-12 md:py-20 reveal"
     >
       <div className="text-center max-w-2xl mx-auto">
         <h2 className="h-display text-pink text-[clamp(44px,8vw,92px)]">

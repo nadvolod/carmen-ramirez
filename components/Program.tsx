@@ -62,7 +62,7 @@ export default function Program() {
   ];
 
   return (
-    <section id="programa" className="container-page py-20 md:py-28 reveal">
+    <section id="programa" className="container-page py-12 md:py-20 reveal">
       <div className="max-w-2xl">
         <h2 className="h-display text-pink text-[clamp(44px,8vw,92px)]">
           {t("title")}

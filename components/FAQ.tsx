@@ -5,7 +5,7 @@ export default function FAQ() {
   const items = t.raw("items") as {q: string; a: string}[];
 
   return (
-    <section id="faq" className="container-page py-20 md:py-28 reveal">
+    <section id="faq" className="container-page py-12 md:py-20 reveal">
       <div className="max-w-3xl mx-auto">
         <h2 className="h-display text-pink text-[clamp(40px,7.5vw,92px)] text-center">
           {t("title")}

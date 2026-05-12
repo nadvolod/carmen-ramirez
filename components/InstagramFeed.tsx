@@ -5,7 +5,7 @@ export default function InstagramFeed() {
   const t = useTranslations("instagram");
 
   return (
-    <section className="container-page py-20 md:py-28 reveal">
+    <section className="container-page py-12 md:py-20 reveal">
       <a
         href={INSTAGRAM_URL}
         target="_blank"

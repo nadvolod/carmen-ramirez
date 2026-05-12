@@ -8,7 +8,7 @@ export default function Training() {
   return (
     <section
       id="entrenamiento"
-      className="container-page py-20 md:py-28 reveal"
+      className="container-page py-12 md:py-20 reveal"
     >
       <div className="grid md:grid-cols-[1.1fr_1fr] gap-10 md:gap-14 items-center">
         <div>

@@ -20,7 +20,7 @@ export default function Nutrition() {
   return (
     <section
       id="alimentacion"
-      className="container-page py-20 md:py-28 reveal"
+      className="container-page py-12 md:py-20 reveal"
     >
       <div className="grid md:grid-cols-[1fr_1.1fr] gap-10 md:gap-12 items-center">
         <div>

@@ -8,16 +8,16 @@ export default function Coaching() {
   return (
     <section
       id="acompanamiento"
-      className="container-page py-20 md:py-28 reveal"
+      className="container-page py-12 md:py-20 reveal"
     >
       <div className="grid md:grid-cols-[1fr_1.1fr] gap-10 md:gap-14 items-center">
         <div className="bw relative aspect-[4/5] w-full max-w-[520px] mx-auto md:mx-0 overflow-hidden rounded-[10px] bg-pink-100">
           <Image
-            src="https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&w=1100&q=85"
+            src="/images/carmen-coaching.webp"
             alt=""
             fill
             sizes="(min-width: 768px) 45vw, 90vw"
-            className="object-cover"
+            className="object-cover object-top"
           />
         </div>
 

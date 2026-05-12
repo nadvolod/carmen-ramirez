@@ -9,7 +9,7 @@ export default function ForWhom() {
   return (
     <section
       id="sobre-mi"
-      className="container-page py-20 md:py-28 reveal"
+      className="container-page py-12 md:py-20 reveal"
     >
       <div className="grid md:grid-cols-[1fr_1.1fr] gap-10 md:gap-14 items-center">
         <div className="bw relative aspect-[4/5] w-full max-w-[480px] mx-auto md:mx-0 overflow-hidden rounded-[10px] bg-pink-100">

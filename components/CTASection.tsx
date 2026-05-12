@@ -9,7 +9,7 @@ export default function CTASection() {
       id="final-cta"
       className="relative overflow-hidden mt-10"
     >
-      <div className="bg-pink text-white py-20 md:py-28">
+      <div className="bg-pink text-white py-14 md:py-20">
         <div className="container-page text-center">
           <h2 className="h-display text-white text-[clamp(48px,9vw,128px)]">
             {t("title")}
