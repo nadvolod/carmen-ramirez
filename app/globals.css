@@ -41,7 +41,7 @@ body {
   font-family: var(--font-anton), Impact, "Arial Narrow", sans-serif;
   text-transform: uppercase;
   letter-spacing: -0.015em;
-  line-height: 0.88;
+  line-height: 1.02;
 }
 
 .h-display.text-pink {
