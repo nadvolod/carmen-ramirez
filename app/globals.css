@@ -201,11 +201,14 @@ img.bw:hover {
   border-radius: 999px;
   box-shadow: 0 20px 40px -16px rgba(224, 127, 160, 0.55),
     0 4px 10px rgba(0, 0, 0, 0.06);
-  animation: fctaBreath 3.2s ease-in-out infinite;
   transition: background 200ms ease, transform 120ms ease,
     box-shadow 240ms ease;
   text-decoration: none;
   will-change: transform;
+}
+
+.fcta-root.is-visible .fcta-pill {
+  animation: fctaBreath 3.2s ease-in-out infinite;
 }
 
 .fcta-pill:hover {
@@ -226,10 +229,15 @@ img.bw:hover {
   border-radius: 999px;
   background: var(--color-pink);
   z-index: -1;
+  opacity: 0;
+}
+
+.fcta-root.is-visible .fcta-pill::before,
+.fcta-root.is-visible .fcta-pill::after {
   animation: fctaPulse 2.6s cubic-bezier(0.2, 0.7, 0.3, 1) infinite;
 }
 
-.fcta-pill::after {
+.fcta-root.is-visible .fcta-pill::after {
   animation-delay: 1.3s;
 }
 

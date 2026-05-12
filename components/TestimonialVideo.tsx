@@ -49,7 +49,7 @@ export default function TestimonialVideo() {
           muted
           loop
           playsInline
-          preload="metadata"
+          preload="none"
           className="absolute inset-0 w-full h-full object-cover"
           onClick={toggleMute}
         >

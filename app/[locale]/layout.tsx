@@ -27,6 +27,7 @@ const caveat = Caveat({
   subsets: ["latin"],
   display: "swap",
   variable: "--font-caveat",
+  preload: false,
 });
 
 export function generateStaticParams() {
