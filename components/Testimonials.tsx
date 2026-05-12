@@ -5,14 +5,19 @@ function initials(name: string) {
   return name.replace(/[^A-Za-zÁÉÍÓÚáéíóúÑñ ]/g, "").trim().split(/\s+/).slice(0, 2).map((w) => w[0]).join("").toUpperCase();
 }
 
-function Stars() {
+function Stars({rating = 5}: {rating?: number}) {
   return (
-    <div
-      className="flex gap-0.5 text-pink"
-      aria-label="5 estrellas"
-    >
+    <div className="flex gap-0.5" aria-label={`${rating} de 5 estrellas`}>
       {Array.from({length: 5}).map((_, i) => (
-        <svg key={i} width="14" height="14" viewBox="0 0 20 20" fill="currentColor" aria-hidden>
+        <svg
+          key={i}
+          width="14"
+          height="14"
+          viewBox="0 0 20 20"
+          fill="currentColor"
+          aria-hidden
+          className={i < rating ? "text-pink" : "text-ink/15"}
+        >
           <path d="M10 1.5l2.6 5.3 5.9.85-4.25 4.15 1 5.9L10 14.9l-5.25 2.8 1-5.9L1.5 7.65 7.4 6.8 10 1.5z" />
         </svg>
       ))}
@@ -22,7 +27,7 @@ function Stars() {
 
 export default function Testimonials() {
   const t = useTranslations("testimonials");
-  const items = t.raw("items") as {name: string; quote: string}[];
+  const items = t.raw("items") as {name: string; quote: string; rating?: number}[];
 
   return (
     <section
@@ -54,7 +59,7 @@ export default function Testimonials() {
                 <figcaption className="font-semibold text-ink">
                   {item.name}
                 </figcaption>
-                <Stars />
+                <Stars rating={item.rating ?? 5} />
               </div>
             </div>
             <blockquote className="mt-4 text-body text-[0.97rem] leading-relaxed">

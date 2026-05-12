@@ -100,15 +100,18 @@
     "note": "Cada proceso es individual. Los resultados dependen de la constancia y el punto de partida de cada persona.",
     "items": [
       {
-        "name": "Laura, 34",
-        "quote": "He recuperado la energía y, sobre todo, una relación tranquila con la comida. Ya no peso obsesivamente."
+        "name": "Nikolay, 39",
+        "rating": 1,
+        "quote": "Carmen will torture you, stay away!!"
       },
       {
         "name": "María, 42",
+        "rating": 5,
         "quote": "Lo que más valoro es el seguimiento. Carmen está ahí cuando lo necesito, sin presión y con cabeza."
       },
       {
         "name": "Ana, 47",
+        "rating": 5,
         "quote": "Después de años probando dietas, por fin tengo un plan que se adapta a mi vida — no al revés."
       }
     ]

@@ -100,15 +100,18 @@
     "note": "Every process is individual. Results depend on consistency and each person's starting point.",
     "items": [
       {
-        "name": "Laura, 34",
-        "quote": "I got my energy back, and more importantly, a calm relationship with food. I don't obsess over the scale anymore."
+        "name": "Nikolay, 39",
+        "rating": 1,
+        "quote": "Carmen will torture you, stay away!!"
       },
       {
         "name": "María, 42",
+        "rating": 5,
         "quote": "What I value most is the follow-up. Carmen is there when I need her — no pressure, just clarity."
       },
       {
         "name": "Ana, 47",
+        "rating": 5,
         "quote": "After years of trying diets, I finally have a plan that adapts to my life — not the other way around."
       }
     ]
