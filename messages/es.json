@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "title": "Carmen Ramírez — Fitness & Nutrition",
+    "description": "Programa personalizado de entrenamiento y nutrición online para mujeres que quieren un cambio real, sin extremos. Acompañamiento cercano por WhatsApp y videollamada."
+  },
+  "nav": {
+    "program": "Programa",
+    "about": "Sobre mí",
+    "results": "Resultados",
+    "faq": "FAQ",
+    "instagram": "Instagram",
+    "cta": "Solicitar asesoría",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú",
+    "switchLang": "English"
+  },
+  "hero": {
+    "fitness": "FITNESS",
+    "nutrition": "NUTRITION",
+    "tagline": "by Carmen Ramírez",
+    "handle": "@carmenrramirez",
+    "lead": "Entrenamiento y nutrición personalizados para mujeres que quieren un cambio real — sin dietas extremas, sin agobios, sin volver a empezar cada lunes.",
+    "cta": "Solicitar asesoría",
+    "scroll": "Ver el programa"
+  },
+  "trust": {
+    "instagram": "Seguidoras en Instagram",
+    "clients": "Mujeres acompañadas",
+    "years": "Años transformando hábitos",
+    "instagramValue": "12K+",
+    "clientsValue": "300+",
+    "yearsValue": "6+"
+  },
+  "forwhom": {
+    "title": "¿PARA QUIÉN ES ESTE PROCESO?",
+    "lead": "Este acompañamiento es para ti si:",
+    "items": [
+      "Tienes entre 25 y 50 años",
+      "Sientes que te cuesta ser constante",
+      "Estás cansada de dietas estrictas",
+      "Te notas inflamada o con molestias digestivas",
+      "Tienes una difícil relación con la comida",
+      "Quieres aprender a cuidarte sin agobios",
+      "Estás en menopausia o perimenopausia",
+      "Llevas tiempo entrenando y no ves resultados"
+    ],
+    "closing": "No importa tu nivel de entrenamiento. Todo se adapta a ti y a tu cuerpo.",
+    "cta": "Solicitar asesoría"
+  },
+  "program": {
+    "title": "EL PROGRAMA",
+    "lead": "Tres pilares que se adaptan a tu vida — no al revés.",
+    "training": {
+      "title": "Entrenamiento",
+      "body": "Plan progresivo y a tu medida, adaptado a tu nivel y al equipamiento que tengas — casa, gimnasio o sólo tu cuerpo."
+    },
+    "nutrition": {
+      "title": "Alimentación",
+      "body": "Pautas flexibles y recetas creativas en menos de 15 minutos. Sin pasar hambre, sin culpas, sin extremos."
+    },
+    "coaching": {
+      "title": "Acompañamiento",
+      "body": "Seguimiento cercano por WhatsApp y revisiones mensuales por videollamada. No estás sola."
+    }
+  },
+  "training": {
+    "title": "ENTRENAMIENTO",
+    "p1": "Diseñamos un plan progresivo a tu medida — desde tu primera semana hasta el momento en que mover una pesa más se siente fácil.",
+    "p2": "Funciona en casa con material básico o en el gimnasio. Cada bloque está pensado para que veas resultados sin pasar horas entrenando.",
+    "cta": "Solicitar asesoría"
+  },
+  "nutrition": {
+    "title": "ALIMENTACIÓN",
+    "p1": "Conmigo no sentirás que estás a dieta.",
+    "p2": "Trabajo con pautas flexibles y recetas creativas, fáciles y rápidas, pensadas para que puedas comer bien aunque tengas poco tiempo. La mayoría están listas en menos de 15 minutos.",
+    "p3": "Además, abordamos problemas de inflamación, digestivos, SIBO o una mala relación con la comida, siempre desde un enfoque respetuoso y sin extremos.",
+    "cta": "Solicitar asesoría",
+    "recipes": [
+      "Tortitas de avena con arándanos",
+      "Ensalada de salmón y calabaza asada",
+      "Fajita integral de pollo con salsa de yogur casera",
+      "Lasaña de calabacín con ternera y ricotta ligera",
+      "Tacos de lechuga con gambas salteadas y mango",
+      "Smoothie bowl con frutos rojos"
+    ]
+  },
+  "coaching": {
+    "title": "ACOMPAÑAMIENTO Y SEGUIMIENTO",
+    "p1": "Durante el proceso no estás sola.",
+    "p2": "Empezamos con una videollamada inicial para conocerte bien.",
+    "p3": "Tenemos seguimiento cercano por WhatsApp y revisiones mensuales por videollamada, donde ajustamos lo que haga falta.",
+    "p4": "Mi objetivo es que disfrutes del proceso, cojas el hábito y lo puedas mantener en el tiempo como un estilo de vida.",
+    "cta": "Solicitar asesoría"
+  },
+  "testimonials": {
+    "title": "RESULTADOS",
+    "lead": "Mujeres reales. Procesos reales.",
+    "videoCaption": "Sus historias, en sus palabras",
+    "videoHint": "Pulsa para activar el sonido",
+    "note": "Cada proceso es individual. Los resultados dependen de la constancia y el punto de partida de cada persona.",
+    "items": [
+      {
+        "name": "Laura, 34",
+        "quote": "He recuperado la energía y, sobre todo, una relación tranquila con la comida. Ya no peso obsesivamente."
+      },
+      {
+        "name": "María, 42",
+        "quote": "Lo que más valoro es el seguimiento. Carmen está ahí cuando lo necesito, sin presión y con cabeza."
+      },
+      {
+        "name": "Ana, 47",
+        "quote": "Después de años probando dietas, por fin tengo un plan que se adapta a mi vida — no al revés."
+      }
+    ]
+  },
+  "instagram": {
+    "title": "EN INSTAGRAM",
+    "lead": "Recetas, entrenamientos y rutinas reales del día a día.",
+    "cta": "Sígueme en @carmenrramirez"
+  },
+  "faq": {
+    "title": "PREGUNTAS FRECUENTES",
+    "items": [
+      {
+        "q": "¿Cuánto dura el programa?",
+        "a": "Recomiendo un mínimo de 3 meses para ver cambios sostenibles, pero el plan es renovable mes a mes. Tú decides cuánto tiempo quieres acompañamiento."
+      },
+      {
+        "q": "¿Necesito equipamiento de gimnasio?",
+        "a": "No. El plan se adapta a lo que tengas: gimnasio completo, material básico en casa (mancuernas o gomas), o solo tu peso corporal."
+      },
+      {
+        "q": "¿Y si tengo alergias o restricciones alimentarias?",
+        "a": "El plan nutricional se adapta a alergias, intolerancias, dietas vegetariana o vegana y a cualquier patología que comentemos en la videollamada inicial."
+      },
+      {
+        "q": "¿Es online o presencial?",
+        "a": "Es 100% online. Trabajamos por WhatsApp y videollamada, lo que me permite acompañarte estés donde estés."
+      },
+      {
+        "q": "¿Qué pasa después de rellenar el formulario?",
+        "a": "Recibo tu solicitud y te contesto en menos de 24h para concretar la videollamada inicial sin compromiso."
+      },
+      {
+        "q": "¿Hay garantía o puedo cancelar?",
+        "a": "Sí. Si en las primeras dos semanas sientes que el programa no es para ti, te devuelvo el importe íntegro."
+      }
+    ]
+  },
+  "ctaFinal": {
+    "title": "¿EMPEZAMOS?",
+    "lead": "Rellena el formulario y te contacto en menos de 24h. Plazas limitadas cada mes para mantener un acompañamiento cercano.",
+    "cta": "Solicitar asesoría",
+    "micro": "Plazas limitadas · Respuesta en 24h · 100% online"
+  },
+  "footer": {
+    "tagline": "Entrenamiento y nutrición personalizados.",
+    "rights": "Todos los derechos reservados.",
+    "instagram": "Instagram",
+    "email": "Email"
+  },
+  "fcta": {
+    "label": "Solicitar asesoría"
+  }
+}

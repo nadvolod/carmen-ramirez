@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "title": "Carmen Ramírez — Fitness & Nutrition",
+    "description": "Personalised online training and nutrition for women who want real, lasting change — no crash diets, no shame, no starting over every Monday."
+  },
+  "nav": {
+    "program": "Program",
+    "about": "About",
+    "results": "Results",
+    "faq": "FAQ",
+    "instagram": "Instagram",
+    "cta": "Apply now",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "switchLang": "Español"
+  },
+  "hero": {
+    "fitness": "FITNESS",
+    "nutrition": "NUTRITION",
+    "tagline": "by Carmen Ramírez",
+    "handle": "@carmenrramirez",
+    "lead": "Personalised training and nutrition for women who want real change — no crash diets, no shame, no starting over every Monday.",
+    "cta": "Apply now",
+    "scroll": "See the program"
+  },
+  "trust": {
+    "instagram": "Instagram followers",
+    "clients": "Women coached",
+    "years": "Years building habits",
+    "instagramValue": "12K+",
+    "clientsValue": "300+",
+    "yearsValue": "6+"
+  },
+  "forwhom": {
+    "title": "WHO IS THIS PROGRAM FOR?",
+    "lead": "This program is for you if:",
+    "items": [
+      "You're between 25 and 50",
+      "You struggle to stay consistent",
+      "You're tired of strict diets",
+      "You feel bloated or have digestive issues",
+      "You have a complicated relationship with food",
+      "You want to take care of yourself without obsessing",
+      "You're in menopause or perimenopause",
+      "You've been training but don't see results"
+    ],
+    "closing": "Your training level doesn't matter. Everything adapts to you and your body.",
+    "cta": "Apply now"
+  },
+  "program": {
+    "title": "THE PROGRAM",
+    "lead": "Three pillars that adapt to your life — not the other way around.",
+    "training": {
+      "title": "Training",
+      "body": "A progressive plan tailored to you — at home with basic gear, in the gym, or with just your bodyweight."
+    },
+    "nutrition": {
+      "title": "Nutrition",
+      "body": "Flexible guidelines and creative recipes ready in under 15 minutes. No hunger, no guilt, no extremes."
+    },
+    "coaching": {
+      "title": "Coaching",
+      "body": "Close support via WhatsApp and monthly video check-ins. You're never on your own."
+    }
+  },
+  "training": {
+    "title": "TRAINING",
+    "p1": "We design a progressive plan made for you — from your first week to the moment lifting one more plate feels easy.",
+    "p2": "It works at home with basic equipment or in the gym. Every block is designed for results without spending hours training.",
+    "cta": "Apply now"
+  },
+  "nutrition": {
+    "title": "NUTRITION",
+    "p1": "With me, you won't feel like you're on a diet.",
+    "p2": "I work with flexible guidelines and creative, fast recipes so you can eat well even when time is tight. Most are ready in under 15 minutes.",
+    "p3": "We also address inflammation, digestive issues, SIBO and difficult relationships with food — always from a respectful, non-extreme place.",
+    "cta": "Apply now",
+    "recipes": [
+      "Oat pancakes with blueberries",
+      "Salmon & roasted squash salad",
+      "Whole-wheat chicken fajitas with yogurt sauce",
+      "Zucchini lasagna with beef and light ricotta",
+      "Lettuce tacos with sautéed shrimp and mango",
+      "Berry smoothie bowl"
+    ]
+  },
+  "coaching": {
+    "title": "COACHING & SUPPORT",
+    "p1": "You're not alone in this process.",
+    "p2": "We start with an initial video call to get to know you well.",
+    "p3": "We stay in close contact on WhatsApp and meet monthly on video to adjust whatever needs adjusting.",
+    "p4": "My goal is for you to enjoy the process, build the habit, and keep it as a lifestyle — not a sprint.",
+    "cta": "Apply now"
+  },
+  "testimonials": {
+    "title": "RESULTS",
+    "lead": "Real women. Real processes.",
+    "videoCaption": "Their stories, in their words",
+    "videoHint": "Tap to unmute",
+    "note": "Every process is individual. Results depend on consistency and each person's starting point.",
+    "items": [
+      {
+        "name": "Laura, 34",
+        "quote": "I got my energy back, and more importantly, a calm relationship with food. I don't obsess over the scale anymore."
+      },
+      {
+        "name": "María, 42",
+        "quote": "What I value most is the follow-up. Carmen is there when I need her — no pressure, just clarity."
+      },
+      {
+        "name": "Ana, 47",
+        "quote": "After years of trying diets, I finally have a plan that adapts to my life — not the other way around."
+      }
+    ]
+  },
+  "instagram": {
+    "title": "ON INSTAGRAM",
+    "lead": "Recipes, workouts and real day-to-day routines.",
+    "cta": "Follow @carmenrramirez"
+  },
+  "faq": {
+    "title": "FREQUENTLY ASKED",
+    "items": [
+      {
+        "q": "How long is the program?",
+        "a": "I recommend a minimum of 3 months to see sustainable change, but the plan renews month to month. You decide how long you want support."
+      },
+      {
+        "q": "Do I need gym equipment?",
+        "a": "No. The plan adapts to whatever you have: a full gym, basic gear at home (dumbbells or bands), or just your bodyweight."
+      },
+      {
+        "q": "What if I have allergies or food restrictions?",
+        "a": "The nutrition plan adapts to allergies, intolerances, vegetarian or vegan diets, and any condition we discuss in the initial call."
+      },
+      {
+        "q": "Is it online or in person?",
+        "a": "It's 100% online. We work via WhatsApp and video calls, which lets me support you wherever you are."
+      },
+      {
+        "q": "What happens after I fill out the form?",
+        "a": "I receive your application and reply within 24h to schedule the initial call — no commitment required."
+      },
+      {
+        "q": "Is there a guarantee or refund?",
+        "a": "Yes. If in the first two weeks you feel the program isn't for you, I refund the full amount."
+      }
+    ]
+  },
+  "ctaFinal": {
+    "title": "READY TO START?",
+    "lead": "Fill out the form and I'll get back to you in under 24h. Limited spots each month to keep coaching close and personal.",
+    "cta": "Apply now",
+    "micro": "Limited spots · 24h reply · 100% online"
+  },
+  "footer": {
+    "tagline": "Personalised training and nutrition.",
+    "rights": "All rights reserved.",
+    "instagram": "Instagram",
+    "email": "Email"
+  },
+  "fcta": {
+    "label": "Apply now"
+  }
+}
